@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "npx nodemon --exec ts-node varriable.ts",
+    "build": "tsc"
+  }
+}
